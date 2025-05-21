@@ -1,5 +1,3 @@
-package com.mycompany.trabalho1.equipe8;
-
 import java.util.Scanner;
 
 public class Tabuleiro {
