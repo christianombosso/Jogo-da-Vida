@@ -1,5 +1,3 @@
-package com.mycompany.trabalho1.equipe8;
-
 public class CelulaMatematica extends Celula {
     
     @Override
@@ -36,4 +34,3 @@ public class CelulaMatematica extends Celula {
         }
     }
 }
-
