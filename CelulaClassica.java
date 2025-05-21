@@ -1,5 +1,3 @@
-package com.mycompany.trabalho1.equipe8;
-
 public class CelulaClassica extends Celula {
     
     @Override
