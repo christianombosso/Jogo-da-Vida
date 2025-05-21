@@ -1,6 +1,4 @@
-    package com.mycompany.trabalho1.equipe8;
-
-    public class CelulaForte extends Celula {
+public class CelulaForte extends Celula {
 
         @Override
 
