@@ -142,3 +142,7 @@ Desenvolvido por:
 - **Maria Luiza Ayumi Saito Yoshiura** (https://github.com/MariaLyoshiura)
 
 Projeto com fins acadêmicos e didáticos, voltado à prática dos conceitos de orientação a objetos em Java.
+
+## 🖥️ IDE Utilizada
+
+- NetBeans
